@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card{
+    background: white;
+    border-radius: 8px;
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    margin-top: 70px;
+}
